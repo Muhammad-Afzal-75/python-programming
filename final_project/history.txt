@@ -1,0 +1,4 @@
+Random Number Generated: 2
+Dice Rolled: 4
+Coin Toss: Head
+Password Generated (length 8): VPApSWxv

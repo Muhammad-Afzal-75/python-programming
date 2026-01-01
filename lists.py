@@ -1,0 +1,16 @@
+fruit = ["apple", "banana", "cherry", "date"]
+print(fruit)
+print("First fruit:", fruit[0])
+print("Last fruit:", fruit[-1])
+print("Sliced fruits (1 to 3):", fruit[1:3])
+fruit.append("elderberry")
+print("After appending elderberry:", fruit)
+fruit.remove("banana")
+print("After removing banana:", fruit)
+fruit.sort()
+print("After sorting:", fruit)
+fruit.reverse()
+print("After reversing:", fruit)
+print("Length of fruit list:", len(fruit))
+fruit[1]= "blueberry"
+print("After changing second fruit to blueberry:", fruit)
